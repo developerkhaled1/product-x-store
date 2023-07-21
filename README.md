@@ -17,11 +17,11 @@
 ## Installation
 
 ```bash
-git clone https://github.com/programming-hero-web-course-4/product-analysis-website-kiron0.git
+git clone https://github.com/developerkhaled1/product-x-store.git
 ```
 
 ```bash
-cd product-analysis-website-kiron0
+cd product-x-store
 ```
 
 ```bash
